@@ -2,6 +2,7 @@ name: frei
 favicon: null
 layout_spectrum: 0.25534
 typography_spectrum: 0.5
+title: Frei
 cta:
   domain: null
   bucket: null
