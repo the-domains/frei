@@ -1,0 +1,28 @@
+name: frei
+favicon: null
+layout_spectrum: 0.40545665682293475
+typography_spectrum: 0.4011826056521386
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.18542529782280326
+  lightness: 0.319599577691406
+  saturation: 0.3549434693995863
+  rhythmicContrast: 0.5604265804868191
+purpose: []
